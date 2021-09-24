@@ -26,7 +26,7 @@ const PACKAGE_JSON_BASE = {
   },
 };
 
-const DIST = path.resolve(ROOT, 'dist/@ionic-native');
+const DIST = path.resolve(ROOT, 'dist/@awesome-cordova');
 
 const PACKAGES = [];
 
@@ -34,13 +34,13 @@ const MIN_CORE_VERSION = '^5.1.0';
 const RXJS_VERSION = '^5.5.0 || ^6.5.0';
 
 const PLUGIN_PEER_DEPENDENCIES = {
-  '@ionic-native/core': MIN_CORE_VERSION,
+  '@awesome-cordova/core': MIN_CORE_VERSION,
   rxjs: RXJS_VERSION,
 };
 
 function getPackageJsonContent(name: string, peerDependencies = {}, dependencies = {}) {
   return merge(PACKAGE_JSON_BASE, {
-    name: '@ionic-native/' + name,
+    name: '@awesome-cordova/' + name,
     dependencies,
     peerDependencies,
     version: VERSION,
@@ -57,7 +57,7 @@ function writeNGXPackageJson(data: any, dir: string) {
   fs.writeJSONSync(filePath, data);
 }
 function prepare() {
-  // write @ionic-native/core package.json
+  // write @awesome-cordova/core package.json
   writePackageJson(
     getPackageJsonContent('core', { rxjs: RXJS_VERSION }, { '@types/cordova': 'latest' }),
     path.resolve(DIST, 'core')

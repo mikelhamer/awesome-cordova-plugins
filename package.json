@@ -1,5 +1,5 @@
 {
-  "name": "ionic-native",
+  "name": "awesome-cordova",
   "version": "5.36.0",
   "description": "Native plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
   "homepage": "https://ionicframework.com/",
@@ -89,10 +89,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/ionic-native.git"
+    "url": "git+https://github.com/danielsogl/awesome-cordova.git"
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/ionic-native/issues"
+    "url": "https://github.com/danielsogl/awesome-cordova/issues"
   },
   "config": {
     "commitizen": {
