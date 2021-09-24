@@ -40,7 +40,7 @@ export interface TealConfig {
  * @paid
  * @name Tealium
  * @description
- * This plugin provides a TypeScript wrapper around the [Tealium](https://www.tealium.com) Cordova plugin for Ionic Native.
+ * This plugin provides a TypeScript wrapper around the [Tealium](https://www.tealium.com) Cordova plugin for Awesome Cordova.
  *
  * For full documentation, see [https://community.tealiumiq.com/t5/Mobile-Libraries/Tealium-for-Cordova/ta-p/17618](https://community.tealiumiq.com/t5/Mobile-Libraries/Tealium-for-Cordova/ta-p/17618)
  * @usage

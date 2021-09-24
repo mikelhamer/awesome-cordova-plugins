@@ -4,7 +4,7 @@ import { Plugin, Cordova, CordovaProperty, IonicNativePlugin } from '@ionic-nati
 /**
  * @name Pollfish
  * @description
- * Pollfish Ionic Native plugin wrapper
+ * Pollfish Awesome Cordova plugin wrapper
  *
  * @usage
  * ```typescript

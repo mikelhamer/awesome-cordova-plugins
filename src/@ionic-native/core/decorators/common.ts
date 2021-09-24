@@ -15,7 +15,7 @@ export function getPromise<T>(callback: (resolve: Function, reject?: Function) =
       });
     } else {
       console.error(
-        'No Promise support or polyfill found. To enable Ionic Native support, please add the es6-promise polyfill before this script, or run with a library like Angular or on a recent browser.'
+        'No Promise support or polyfill found. To enable Awesome Cordova support, please add the es6-promise polyfill before this script, or run with a library like Angular or on a recent browser.'
       );
     }
   };

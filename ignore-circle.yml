@@ -32,7 +32,7 @@ jobs:
           command: npm run lint
       - run: bash ./scripts/git/config.sh
       - run:
-          name: Build Ionic Native
+          name: Build Awesome Cordova
           command: npm run build
       - run:
           name: Generate README files to ensure docs are valid

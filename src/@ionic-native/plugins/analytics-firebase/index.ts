@@ -4,7 +4,7 @@ import { Cordova, CordovaProperty, IonicNativePlugin, Plugin } from '@ionic-nati
 /**
  * @name Analytics Firebase
  * @description
- * Google Analytics Firebase plugin for Ionic Native apps.
+ * Google Analytics Firebase plugin for Awesome Cordova apps.
  *
  * @usage
  * ```typescript

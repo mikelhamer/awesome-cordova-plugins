@@ -623,7 +623,7 @@ export interface CommandsArray extends Array<PrintCommand> {}
 /**
  * @name StarPRNT
  * @description
- * * Ionic Native wrappers for the starprnt cordova plugin for Star Micronics Bluetooth/LAN printers
+ * * Awesome Cordova wrappers for the starprnt cordova plugin for Star Micronics Bluetooth/LAN printers
  *
  * @usage
  * ```typescript

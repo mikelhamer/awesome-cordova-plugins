@@ -14,7 +14,7 @@ const VERSION = MAIN_PACKAGE_JSON.version;
 const FLAGS = '--access public';
 
 const PACKAGE_JSON_BASE = {
-  description: 'Ionic Native - Native plugins for ionic apps',
+  description: 'Awesome Cordova - Native plugins for ionic apps',
   main: 'bundle.js',
   module: 'index.js',
   typings: 'index.d.ts',

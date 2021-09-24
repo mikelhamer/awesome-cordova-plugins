@@ -11,14 +11,14 @@ export function checkReady() {
 
     let didFireReady = false;
     win.document.addEventListener('deviceready', () => {
-      console.log(`Ionic Native: deviceready event fired after ${Date.now() - before} ms`);
+      console.log(`Awesome Cordova: deviceready event fired after ${Date.now() - before} ms`);
       didFireReady = true;
     });
 
     setTimeout(() => {
       if (!didFireReady && win.cordova) {
         console.warn(
-          `Ionic Native: deviceready did not fire within ${DEVICE_READY_TIMEOUT}ms. This can happen when plugins are in an inconsistent state. Try removing plugins from plugins/ and reinstalling them.`
+          `Awesome Cordova: deviceready did not fire within ${DEVICE_READY_TIMEOUT}ms. This can happen when plugins are in an inconsistent state. Try removing plugins from plugins/ and reinstalling them.`
         );
       }
     }, DEVICE_READY_TIMEOUT);

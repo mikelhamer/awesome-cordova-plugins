@@ -1023,7 +1023,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Features
 
-* **appsflyer:** Added Appsflyer Cordova SDK as ionic native plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
+* **appsflyer:** Added Appsflyer Cordova SDK as Awesome Cordova plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
 * **branch-io:** Add branch.io attribution and invitation plugin ([#2691](https://github.com/ionic-team/ionic-native/issues/2691)) ([90d75af](https://github.com/ionic-team/ionic-native/commit/90d75af9d11e441f75edfbf2c10fc63c97134334))
 * **calldirectory:** add log function ([#2708](https://github.com/ionic-team/ionic-native/issues/2708)) ([9601a64](https://github.com/ionic-team/ionic-native/commit/9601a64227d894985530331b1c48bc13ab0f1133))
 * **janalytics:** add  plugin ([#2711](https://github.com/ionic-team/ionic-native/issues/2711)) ([0b97176](https://github.com/ionic-team/ionic-native/commit/0b9717636c4220ce06f883e85eb75dadde99b7e0))
@@ -1379,7 +1379,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Features
 
-* **appsflyer:** Added Appsflyer Cordova SDK as ionic native plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
+* **appsflyer:** Added Appsflyer Cordova SDK as Awesome Cordova plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
 * **branch-io:** Add branch.io attribution and invitation plugin ([#2691](https://github.com/ionic-team/ionic-native/issues/2691)) ([90d75af](https://github.com/ionic-team/ionic-native/commit/90d75af9d11e441f75edfbf2c10fc63c97134334))
 * **calldirectory:** add log function ([#2708](https://github.com/ionic-team/ionic-native/issues/2708)) ([9601a64](https://github.com/ionic-team/ionic-native/commit/9601a64227d894985530331b1c48bc13ab0f1133))
 * **janalytics:** add  plugin ([#2711](https://github.com/ionic-team/ionic-native/issues/2711)) ([0b97176](https://github.com/ionic-team/ionic-native/commit/0b9717636c4220ce06f883e85eb75dadde99b7e0))
@@ -1707,7 +1707,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Features
 
-* **appsflyer:** Added Appsflyer Cordova SDK as ionic native plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
+* **appsflyer:** Added Appsflyer Cordova SDK as Awesome Cordova plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
 * **branch-io:** Add branch.io attribution and invitation plugin ([#2691](https://github.com/ionic-team/ionic-native/issues/2691)) ([90d75af](https://github.com/ionic-team/ionic-native/commit/90d75af9d11e441f75edfbf2c10fc63c97134334))
 * **calldirectory:** add log function ([#2708](https://github.com/ionic-team/ionic-native/issues/2708)) ([9601a64](https://github.com/ionic-team/ionic-native/commit/9601a64227d894985530331b1c48bc13ab0f1133))
 * **janalytics:** add  plugin ([#2711](https://github.com/ionic-team/ionic-native/issues/2711)) ([0b97176](https://github.com/ionic-team/ionic-native/commit/0b9717636c4220ce06f883e85eb75dadde99b7e0))
@@ -1945,7 +1945,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Features
 
-* **appsflyer:** Added Appsflyer Cordova SDK as ionic native plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
+* **appsflyer:** Added Appsflyer Cordova SDK as Awesome Cordova plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
 * **branch-io:** Add branch.io attribution and invitation plugin ([#2691](https://github.com/ionic-team/ionic-native/issues/2691)) ([90d75af](https://github.com/ionic-team/ionic-native/commit/90d75af9d11e441f75edfbf2c10fc63c97134334))
 * **calldirectory:** add log function ([#2708](https://github.com/ionic-team/ionic-native/issues/2708)) ([9601a64](https://github.com/ionic-team/ionic-native/commit/9601a64227d894985530331b1c48bc13ab0f1133))
 * **janalytics:** add  plugin ([#2711](https://github.com/ionic-team/ionic-native/issues/2711)) ([0b97176](https://github.com/ionic-team/ionic-native/commit/0b9717636c4220ce06f883e85eb75dadde99b7e0))
@@ -2144,7 +2144,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Features
 
-* **appsflyer:** Added Appsflyer Cordova SDK as ionic native plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
+* **appsflyer:** Added Appsflyer Cordova SDK as Awesome Cordova plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
 * **branch-io:** Add branch.io attribution and invitation plugin ([#2691](https://github.com/ionic-team/ionic-native/issues/2691)) ([90d75af](https://github.com/ionic-team/ionic-native/commit/90d75af9d11e441f75edfbf2c10fc63c97134334))
 * **calldirectory:** add log function ([#2708](https://github.com/ionic-team/ionic-native/issues/2708)) ([9601a64](https://github.com/ionic-team/ionic-native/commit/9601a64227d894985530331b1c48bc13ab0f1133))
 * **janalytics:** add  plugin ([#2711](https://github.com/ionic-team/ionic-native/issues/2711)) ([0b97176](https://github.com/ionic-team/ionic-native/commit/0b9717636c4220ce06f883e85eb75dadde99b7e0))
@@ -2304,7 +2304,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Features
 
-* **appsflyer:** Added Appsflyer Cordova SDK as ionic native plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
+* **appsflyer:** Added Appsflyer Cordova SDK as Awesome Cordova plugin ([#2690](https://github.com/ionic-team/ionic-native/issues/2690)) ([3b3f942](https://github.com/ionic-team/ionic-native/commit/3b3f942ed5e5924e1e960c195b4758cb25e6c84d))
 * **branch-io:** Add branch.io attribution and invitation plugin ([#2691](https://github.com/ionic-team/ionic-native/issues/2691)) ([90d75af](https://github.com/ionic-team/ionic-native/commit/90d75af9d11e441f75edfbf2c10fc63c97134334))
 * **calldirectory:** add log function ([#2708](https://github.com/ionic-team/ionic-native/issues/2708)) ([9601a64](https://github.com/ionic-team/ionic-native/commit/9601a64227d894985530331b1c48bc13ab0f1133))
 * **janalytics:** add  plugin ([#2711](https://github.com/ionic-team/ionic-native/issues/2711)) ([0b97176](https://github.com/ionic-team/ionic-native/commit/0b9717636c4220ce06f883e85eb75dadde99b7e0))
@@ -2777,7 +2777,7 @@ Co-Authored-By: Daniel Sogl <mytechde@outlook.com>
 
 ### Bug Fixes
 
-* **google-maps:** convert JS classes to Ionic Native ([#1956](https://github.com/ionic-team/ionic-native/issues/1956)) ([57af5c5](https://github.com/ionic-team/ionic-native/commit/57af5c5e7358acbfe43bda8088215c2bf429dd1e)), closes [/github.com/ionic-team/ionic-native/pull/1815#issuecomment-318909795](https://github.com//github.com/ionic-team/ionic-native/pull/1815/issues/issuecomment-318909795)
+* **google-maps:** convert JS classes to Awesome Cordova ([#1956](https://github.com/ionic-team/ionic-native/issues/1956)) ([57af5c5](https://github.com/ionic-team/ionic-native/commit/57af5c5e7358acbfe43bda8088215c2bf429dd1e)), closes [/github.com/ionic-team/ionic-native/pull/1815#issuecomment-318909795](https://github.com//github.com/ionic-team/ionic-native/pull/1815/issues/issuecomment-318909795)
 * **google-maps:** fix icons property of MarkerClusterOptions ([#1937](https://github.com/ionic-team/ionic-native/issues/1937)) ([8004790](https://github.com/ionic-team/ionic-native/commit/80047907eaf85d0b637a1e1606d5d474362d5507)), closes [/github.com/ionic-team/ionic-native/pull/1815#issuecomment-318909795](https://github.com//github.com/ionic-team/ionic-native/pull/1815/issues/issuecomment-318909795)
 * **google-maps:** fix issue when creating new instance of BaseArrayClass ([#1931](https://github.com/ionic-team/ionic-native/issues/1931)) ([957396b](https://github.com/ionic-team/ionic-native/commit/957396b5e595af82b036c6aaefcba5c0654dd2fe)), closes [/github.com/ionic-team/ionic-native/pull/1815#issuecomment-318909795](https://github.com//github.com/ionic-team/ionic-native/pull/1815/issues/issuecomment-318909795)
 * **google-maps:** the zoom option is missing in the GoogleMapOptions class ([#1948](https://github.com/ionic-team/ionic-native/issues/1948)) ([ef898ef](https://github.com/ionic-team/ionic-native/commit/ef898efcc6c71093902c40bbe71dcd8e1044a005)), closes [/github.com/ionic-team/ionic-native/pull/1815#issuecomment-318909795](https://github.com//github.com/ionic-team/ionic-native/pull/1815/issues/issuecomment-318909795)

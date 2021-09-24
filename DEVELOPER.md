@@ -1,6 +1,6 @@
-# Ionic Native Developer Guide
+# Awesome Cordova Developer Guide
 
-This is a short guide on creating new plugin wrappers for Ionic Native.
+This is a short guide on creating new plugin wrappers for Awesome Cordova.
 
 ## Creating Plugin Wrappers
 
@@ -18,7 +18,7 @@ gulp plugin:create -m -n PluginName
 
 Running the command above will create a new directory `src/@ionic-native/plugins/plugin-name/` with a single file in there: `index.ts`. This file is where all the plugin definitions should be.
 
-Let's take a look at the existing plugin wrapper for Geolocation to see what goes into an Ionic Native plugin (comments have been removed for clarity):
+Let's take a look at the existing plugin wrapper for Geolocation to see what goes into an Awesome Cordova plugin (comments have been removed for clarity):
 
 ```
 @Plugin({
@@ -53,7 +53,7 @@ class Geolocation {
 
 #### Class Metadata
 
-Next, we need to specify some information about this plugin. Ionic Native is written in [TypeScript](http://www.typescriptlang.org/) and makes use of a feature called [decorators](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages/Decorators.md). Long story short, decorators allow us to modify or add info to classes and properties using a declarative syntax.
+Next, we need to specify some information about this plugin. Awesome Cordova is written in [TypeScript](http://www.typescriptlang.org/) and makes use of a feature called [decorators](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages/Decorators.md). Long story short, decorators allow us to modify or add info to classes and properties using a declarative syntax.
 
 For example, the `@Plugin` decorator adds information about the plugin to our Geolocation class:
 
@@ -102,7 +102,7 @@ The `@Cordova` decorator has a few more options now.
 
 `observable` indicates that this method may call its callbacks multiple times, so `@Cordova` wraps it in an [`Observable`](https://github.com/ionic-team/ionic-native#promises-and-observables) instead of a Promise.
 
-`callbackOrder` refers to the method signature of the underlying Cordova plugin, and tells Ionic Native which arguments are the callbacks to map to the wrapping Promise or Observable. In this case, the signature is [`watchPosition(success, error, options)`](https://github.com/apache/cordova-plugin-geolocation#navigatorgeolocationwatchposition), so we need to tell `@Cordova` that the callbacks are the first arguments, not the last arguments. For rare cases, you can also specify the options `successIndex` and `errorIndex` to indicate where in the argument list the callbacks are located.
+`callbackOrder` refers to the method signature of the underlying Cordova plugin, and tells Awesome Cordova which arguments are the callbacks to map to the wrapping Promise or Observable. In this case, the signature is [`watchPosition(success, error, options)`](https://github.com/apache/cordova-plugin-geolocation#navigatorgeolocationwatchposition), so we need to tell `@Cordova` that the callbacks are the first arguments, not the last arguments. For rare cases, you can also specify the options `successIndex` and `errorIndex` to indicate where in the argument list the callbacks are located.
 
 `clearFunction` is used in conjunction with the `observable` option and indicates the function to be called when the Observable is disposed.
 
@@ -150,7 +150,7 @@ The subject contains succinct description of the change:
 - do not place a period (.) at the end
 - entire length of the commit message must not go over 50 characters
 
-### Ionic Native Decorators
+### Awesome Cordova Decorators
 
 #### Plugin
 
