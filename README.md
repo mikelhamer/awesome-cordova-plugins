@@ -6,7 +6,7 @@ Awesome Cordova Plugins is a curated set of wrappers for Cordova plugins that ma
 
 Awesome Cordova Plugins wraps plugin callbacks in a Promise or Observable, providing a common interface for all plugins and making it easy to use plugins with Angular change detection.
 
-To learn more about the reasons why Ionic Native was renamed to Awesome Cordova Plugins, read the official [Ionic blog](https://ionicframework.com/blog/a-new-chapter-for-ionic-native/) post by Max Lyncht.
+To learn more about the reasons why Ionic Native was renamed to Awesome Cordova Plugins, read the official [Ionic blog](https://ionicframework.com/blog/a-new-chapter-for-ionic-native/) post by Max Lynch.
 
 ## Capacitor Support
 
